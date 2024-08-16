@@ -1,4 +1,5 @@
 # Microprocessor Architecture Project-README
+For more details check the ![presentation](PRESENTATION.md) and how to ![set it up](PROJECT-SETUP.md)
 
 ## What is this project about?
 We had to create a device using electronic components such as sensors, motors, etc and control them using an MCU of 
