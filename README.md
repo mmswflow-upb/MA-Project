@@ -25,8 +25,8 @@ the longest time to finish, because I had to connect my MCU to my laptop each ti
 the feature.
 
 ## What did I learn?
-I learned how to work with electronic components, MCUs, I learned about communication 
-protocols between integrated circuits, I learned some rust along with the embasssy framework
-and I also learned more about app development (with Python) and I was familiarized with Github. 
+I learned how to work with electronic components, MCUs, I studied communication 
+protocols between integrated circuits, I learned some rust along with the embasssy framework, 
+I also learned more about app development (with Python), and I learned how to use KiCad and GitHub.
 
-Overall it was a wonderful learning experience 💪💪
+Overall, it was a wonderful learning experience 💪💪
