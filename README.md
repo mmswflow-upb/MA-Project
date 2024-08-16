@@ -1,4 +1,4 @@
-# Microprocessor Architecture Project-README
+# Microprocessor Architecture Project
 For more details check the [presentation](PRESENTATION.md) and how to [set it up](PROJECT-SETUP.md).
 
 ## What is this project about?
