@@ -15,7 +15,7 @@ tough to work with embassy due to my unfamiliarity with the Rust language, it's 
 little time to get used to it.
 
 One of the obstacles was trying to work with modules or libraries, which would help me with 
-operating the peripherals connected to my MCU such as the LCD screen or the wifi chip, 
+operating the peripherals connected to my MCU such as the LCD screen or the WIFI chip, 
 this is because the community is pretty small and I had to try a couple different modules 
 until I found an actual working one.
 
