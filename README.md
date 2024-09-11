@@ -19,7 +19,7 @@ operating the peripherals connected to my MCU such as the LCD screen or the WIFI
 this is because the community is pretty small and I had to try a couple different modules 
 until I found an actual working one.
 
-The toughest part was creating the logic for my project, since I had to expect input both 
+The toughest part was coming up with the logic for my project, since I had to expect input both 
 from a tactile physical remote and an application on the PC simultaneously. This part took
 the longest time to finish, because I had to connect my MCU to my laptop each time I tested
 the feature.
