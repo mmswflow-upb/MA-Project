@@ -10,7 +10,7 @@ to fork the repository of the [course's website](https://embedded-rust-101.wylio
 presentations, then we had to create pull requests that were tested before merging.
 
 ## How did it go?
-At first I was unsure of what I wanted to create, but then I tried to go with one idea and develop it incrementally, it was 
+At first I was unsure of what I wanted to create, but then I tried to go with one idea and develop it incrementally. It was 
 tough to work with embassy due to my unfamiliarity with the Rust language, it's a pretty tough language to learn and we had
 little time to get used to it.
 
