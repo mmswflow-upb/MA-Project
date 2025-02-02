@@ -4,7 +4,7 @@ A cooling Pad for laptops that can be controlled wirelessly or using buttons.
 :::info
 
 **Author**: Sakka Mohamad-Mario \
-**GitHub Project Link**: https://github.com/UPB-FILS-MA/project-mmswflow-upb.git
+**GitHub Project Link**: https://github.com/mmswflow-upb/MA-Project
 
 :::
 
