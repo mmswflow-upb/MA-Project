@@ -20,7 +20,7 @@ cargo install elf2uf2-rs
 3. Once you have cloned this repo, navigate to the rp_pico_w_firmware folder by running in the terminal
 
 ```powershell
-cd path/to/project-mmswflow-upb/rp_pico_w_firmware
+cd path/to/MA-project/project-files/rp_pico_w_firmware
 ```
 
 4. Build the MCU's firmware by running
@@ -56,7 +56,7 @@ pip install keyboard
 3. Navigate to the Python App folder by using the terminal and running
 
 ```powershell
-cd path/to/project-mmswflow-upb/"Python App"
+cd path/to/MA-project/project-files/"Python App"
 ```
 
 4. Run the program with the command:
