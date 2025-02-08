@@ -11,10 +11,10 @@ if everything went well you should get the version of the toolchain in the termi
 rustup --version
 ```
 
-2. Install the elf2uf2-rs tool to be able to flash the firmware to the RP Pico W, run this command in the terminal:
+2. Install the dependencies, run this command in the terminal:
 
 ```powershell
-cargo install elf2uf2-rs
+cargo install 
 ```
 
 3. Once you have cloned this repo, navigate to the rp_pico_w_firmware folder by running in the terminal
